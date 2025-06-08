@@ -1,0 +1,33 @@
+{
+  "name": "vikramaditya-pratap-singh",
+  "version": "1.0.0",
+  "description": "NPM package that displays my resume in the terminal",
+  "keywords": [
+    "npm",
+    "package",
+    "resume"
+  ],
+  "homepage": "https://github.com/d02ev/resume-npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/d02ev/resume-npm-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/d02ev/resume-npm-package.git"
+  },
+  "license": "ISC",
+  "author": "Vikramaditya Pratap Singh (d02ev)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2"
+  },
+  "bin": {
+    "vikramaditya-resume": "./index.js"
+  }
+}
