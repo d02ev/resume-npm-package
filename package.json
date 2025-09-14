@@ -1,7 +1,7 @@
 {
-  "name": "vikramaditya-pratap-singh",
-  "version": "1.0.0",
-  "description": "NPM package that displays my resume in the terminal",
+  "name": "@vikramaditya-pratap-singh/resume",
+  "version": "1.0.2",
+  "description": "NPM package that displays my resume on the terminal",
   "keywords": [
     "npm",
     "package",
@@ -25,9 +25,10 @@
   "dependencies": {
     "boxen": "^5.1.2",
     "chalk": "^4.1.2",
+    "dotenv": "^17.2.2",
     "figlet": "^1.5.2"
   },
   "bin": {
-    "vikramaditya-resume": "./index.js"
+    "@vikramaditya-pratap-singh": "index.js"
   }
 }
