@@ -7,13 +7,13 @@ A beautiful CLI resume package that displays Vikramaditya Pratap Singh's profess
 You can run this package directly using npx without installing it globally:
 
 ```bash
-npx @vikramaditya-pratap-singh
+npx @vikramaditya-pratap-singh/resume
 ```
 
 Or install it globally:
 
 ```bash
-npm install -g @vikramaditya-pratap-singh
+npm install -g @vikramaditya-pratap-singh/resume
 ```
 
 ## 📋 Usage
@@ -21,7 +21,7 @@ npm install -g @vikramaditya-pratap-singh
 ### Using npx (Recommended)
 
 ```bash
-npx @vikramaditya-pratap-singh
+npx @vikramaditya-pratap-singh/resume
 ```
 
 ### Using global installation
@@ -29,7 +29,7 @@ npx @vikramaditya-pratap-singh
 After installing globally, simply run:
 
 ```bash
-@vikramaditya-pratap-singh
+@vikramaditya-pratap-singh/resume
 ```
 
 ## ✨ Features
